@@ -1,1 +1,1 @@
-Custom apps in the build.
+Custom apps in the build with their source code.
